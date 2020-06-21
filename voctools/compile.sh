@@ -1,0 +1,11 @@
+mkdir Annotations
+mkdir ImageSets
+cd ImageSets
+mkdir Action
+mkdir Layout
+mkdir Main
+mkdir Segmentation
+cd ..
+python3 /PATH_TO_CURRENT_FOLDER/ForVOCFormat/modify_img_name.py
+python3 /PATH_TO_CURRENT_FOLDER/ForVOCFormat/crop_resize.py
+python3 /PATH_TO_CURRENT_FOLDER/ForVOCFormat/generate_Main_txt.py
