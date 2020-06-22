@@ -10,3 +10,9 @@
 
 ***
 If you find this useful, please star it! :)
+
+Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
+Thanks a lot! (谢谢充电！)       
+<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/wechat_charge.png" width="100"  alt="wechat_pay"/>
+<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/alipay_charge.jpg" width="100"  alt="ali_pay"/><br/>
+
