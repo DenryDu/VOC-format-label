@@ -1,18 +1,39 @@
 # VOC tools (format and label)
-## Pre_work
-- open the voctools repo
-- use the absolute path of your git folder to replace "PATH_TO_CURRENT_FOLDER" in two shell file.
-## How to use
-- pack all the image together, then create a folder named JPEGImages to store them
-- copy this two shell file to where sibling with the folder you've created
-- run the compile.sh
-- run the label.sh
+## Table of Contents
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+- [Related Efforts](#related-efforts)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Background
+
+## Install
+Just **Download** and **Unzip** the repo!
+
+## Usage
+[1] Modify Path_Variables in Shells      
+
+> Replace "PATH_TO_CURRENT_FOLDER" with **absolute path** of where you download and unzip **the repo**
+
+[2] Pack all images together into a new folder named **JPEGImages**        
+[3] Copy the two shell files to where sibling with the folder **JPEGImages**          
+[4] Run the compile.sh         
+```
+bash compile.sh
+```
+[5] Run the label.sh    
+``` 
+bash label.sh
+```
+
+## Related Efforts
+## Maintainers
+[@DenryDu](https://github.com/DenryDu)
+## Contributors
+## License
 
 ***
 If you find this useful, please star it! :)
-
-Support from you is my greatest encouragement! (您的支持是对我的最大鼓励！)       
-Thanks a lot! (谢谢充电！)       
-<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/wechat_charge.png" width="100"  alt="wechat_pay"/>
-<img src="https://github.com/DenryDu/DenryDu.github.io/blob/master/image_upload/alipay_charge.jpg" width="100"  alt="ali_pay"/><br/>
-
