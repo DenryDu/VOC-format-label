@@ -1,6 +1,8 @@
 # VOC tools 
-> (format and label)
-> 规格化图片并加标签
+format and label规格化图片并加标签
+
+![](https://img.shields.io/badge/language-python-green.svg)
+
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
@@ -11,7 +13,7 @@
 - [License](#license)
 
 ## Background
-
+As CV 
 ## Install
 Just **Download** and **Unzip** the repo!
 
