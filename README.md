@@ -1,6 +1,5 @@
 # VOC tools 
-![](https://img.shields.io/badge/language-python-green.svg)
-![](https://img.shields.io/badge/VOC-TOOL-v1.0.0-519dd9.svg)
+![](https://img.shields.io/badge/language-python-green.svg)  ![](https://img.shields.io/badge/VOC_TOOL-v1.0.0-519dd9.svg)
 
 A tool for formating and labeling with VOC FORMAT        
 > 按照VOC格式规格化图片并加标签的工具
