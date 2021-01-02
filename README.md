@@ -1,4 +1,6 @@
-# VOC tools (format and label)
+# VOC tools 
+> (format and label)
+> 规格化图片并加标签
 ## Table of Contents
 - [Background](#background)
 - [Install](#install)
@@ -16,10 +18,12 @@ Just **Download** and **Unzip** the repo!
 ## Usage
 [1] Modify Path_Variables in Shells      
 
-> Replace "PATH_TO_CURRENT_FOLDER" with **absolute path** of where you download and unzip **the repo**
+> Replace **"PATH_TO_CURRENT_FOLDER"** with **absolute path** of where you download and unzip **the repo**
 
-[2] Pack all images together into a new folder named **JPEGImages**        
-[3] Copy the two shell files to where sibling with the folder **JPEGImages**          
+[2] Pack all images together into a new folder named **JPEGImages**    
+
+[3] Copy the two shell files to where sibling with the folder **JPEGImages** 
+
 [4] Run the compile.sh         
 ```
 bash compile.sh
